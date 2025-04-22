@@ -1,0 +1,209 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/32.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/20.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/17.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/33.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/26.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/27.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/30.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/29.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/31.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/picard/markduplicates/28.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/31/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/26/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/17/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/28/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/32/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/27/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/33/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/29/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/30/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/20/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/5/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/31/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/26/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/17/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/28/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/32/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/27/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/33/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/29/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/30/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/20/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/qualimap/5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/27.read_distribution.txt
+RSeQC	read_distribution	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/30.read_distribution.txt
+RSeQC	read_distribution	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/32.read_distribution.txt
+RSeQC	read_distribution	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/17.read_distribution.txt
+RSeQC	read_distribution	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/31.read_distribution.txt
+RSeQC	read_distribution	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/2.read_distribution.txt
+RSeQC	read_distribution	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/5.read_distribution.txt
+RSeQC	read_distribution	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/20.read_distribution.txt
+RSeQC	read_distribution	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/33.read_distribution.txt
+RSeQC	read_distribution	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/29.read_distribution.txt
+RSeQC	read_distribution	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/28.read_distribution.txt
+RSeQC	read_distribution	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_distribution/26.read_distribution.txt
+RSeQC	inner_distance	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/inner_distance/17.inner_distance_freq.txt
+RSeQC	inner_distance	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/inner_distance/2.inner_distance_freq.txt
+RSeQC	inner_distance	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/inner_distance/20.inner_distance_freq.txt
+RSeQC	inner_distance	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/inner_distance/5.inner_distance_freq.txt
+RSeQC	read_duplication	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/31.pos.DupRate.xls
+RSeQC	read_duplication	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/26.pos.DupRate.xls
+RSeQC	read_duplication	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/29.pos.DupRate.xls
+RSeQC	read_duplication	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/30.pos.DupRate.xls
+RSeQC	read_duplication	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/17.pos.DupRate.xls
+RSeQC	read_duplication	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/2.pos.DupRate.xls
+RSeQC	read_duplication	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/20.pos.DupRate.xls
+RSeQC	read_duplication	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/27.pos.DupRate.xls
+RSeQC	read_duplication	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/28.pos.DupRate.xls
+RSeQC	read_duplication	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/33.pos.DupRate.xls
+RSeQC	read_duplication	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/32.pos.DupRate.xls
+RSeQC	read_duplication	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/read_duplication/5.pos.DupRate.xls
+RSeQC	junction_annotation	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/28.junction_annotation.log
+RSeQC	junction_annotation	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/29.junction_annotation.log
+RSeQC	junction_annotation	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/33.junction_annotation.log
+RSeQC	junction_annotation	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/26.junction_annotation.log
+RSeQC	junction_annotation	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/32.junction_annotation.log
+RSeQC	junction_annotation	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/27.junction_annotation.log
+RSeQC	junction_annotation	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/17.junction_annotation.log
+RSeQC	junction_annotation	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/30.junction_annotation.log
+RSeQC	junction_annotation	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/31.junction_annotation.log
+RSeQC	junction_annotation	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/20.junction_annotation.log
+RSeQC	junction_annotation	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/5.junction_annotation.log
+RSeQC	junction_annotation	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_annotation/2.junction_annotation.log
+RSeQC	junction_saturation	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/5.junctionSaturation_plot.r
+RSeQC	junction_saturation	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/2.junctionSaturation_plot.r
+RSeQC	junction_saturation	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/17.junctionSaturation_plot.r
+RSeQC	junction_saturation	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/31.junctionSaturation_plot.r
+RSeQC	junction_saturation	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/26.junctionSaturation_plot.r
+RSeQC	junction_saturation	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/32.junctionSaturation_plot.r
+RSeQC	junction_saturation	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/20.junctionSaturation_plot.r
+RSeQC	junction_saturation	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/27.junctionSaturation_plot.r
+RSeQC	junction_saturation	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/33.junctionSaturation_plot.r
+RSeQC	junction_saturation	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/29.junctionSaturation_plot.r
+RSeQC	junction_saturation	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/30.junctionSaturation_plot.r
+RSeQC	junction_saturation	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/junction_saturation/28.junctionSaturation_plot.r
+RSeQC	infer_experiment	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/5.infer_experiment.txt
+RSeQC	infer_experiment	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/33.infer_experiment.txt
+RSeQC	infer_experiment	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/17.infer_experiment.txt
+RSeQC	infer_experiment	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/28.infer_experiment.txt
+RSeQC	infer_experiment	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/31.infer_experiment.txt
+RSeQC	infer_experiment	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/30.infer_experiment.txt
+RSeQC	infer_experiment	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/26.infer_experiment.txt
+RSeQC	infer_experiment	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/27.infer_experiment.txt
+RSeQC	infer_experiment	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/29.infer_experiment.txt
+RSeQC	infer_experiment	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/2.infer_experiment.txt
+RSeQC	infer_experiment	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/20.infer_experiment.txt
+RSeQC	infer_experiment	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/infer_experiment/32.infer_experiment.txt
+RSeQC	bam_stat	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/33.bam_stat.txt
+RSeQC	bam_stat	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/26.bam_stat.txt
+RSeQC	bam_stat	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/5.bam_stat.txt
+RSeQC	bam_stat	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/31.bam_stat.txt
+RSeQC	bam_stat	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/32.bam_stat.txt
+RSeQC	bam_stat	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/17.bam_stat.txt
+RSeQC	bam_stat	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/28.bam_stat.txt
+RSeQC	bam_stat	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/29.bam_stat.txt
+RSeQC	bam_stat	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/20.bam_stat.txt
+RSeQC	bam_stat	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/2.bam_stat.txt
+RSeQC	bam_stat	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/30.bam_stat.txt
+RSeQC	bam_stat	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/rseqc/bam_stat/27.bam_stat.txt
+Samtools	stats	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/31.markdup.sorted.bam.stats
+Samtools	stats	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/20.markdup.sorted.bam.stats
+Samtools	stats	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/27.markdup.sorted.bam.stats
+Samtools	stats	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/30.markdup.sorted.bam.stats
+Samtools	stats	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/33.markdup.sorted.bam.stats
+Samtools	stats	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/2.markdup.sorted.bam.stats
+Samtools	stats	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/32.markdup.sorted.bam.stats
+Samtools	stats	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/5.markdup.sorted.bam.stats
+Samtools	stats	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/17.markdup.sorted.bam.stats
+Samtools	stats	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/28.markdup.sorted.bam.stats
+Samtools	stats	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/29.markdup.sorted.bam.stats
+Samtools	stats	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/stats/26.markdup.sorted.bam.stats
+Samtools	flagstat	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/30.markdup.sorted.bam.flagstat
+Samtools	flagstat	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/33.markdup.sorted.bam.flagstat
+Samtools	flagstat	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/5.markdup.sorted.bam.flagstat
+Samtools	flagstat	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/2.markdup.sorted.bam.flagstat
+Samtools	flagstat	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/20.markdup.sorted.bam.flagstat
+Samtools	flagstat	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/29.markdup.sorted.bam.flagstat
+Samtools	flagstat	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/32.markdup.sorted.bam.flagstat
+Samtools	flagstat	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/31.markdup.sorted.bam.flagstat
+Samtools	flagstat	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/27.markdup.sorted.bam.flagstat
+Samtools	flagstat	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/28.markdup.sorted.bam.flagstat
+Samtools	flagstat	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/26.markdup.sorted.bam.flagstat
+Samtools	flagstat	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/flagstat/17.markdup.sorted.bam.flagstat
+Samtools	idxstats	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/5.markdup.sorted.bam.idxstats
+Samtools	idxstats	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/27.markdup.sorted.bam.idxstats
+Samtools	idxstats	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/26.markdup.sorted.bam.idxstats
+Samtools	idxstats	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/2.markdup.sorted.bam.idxstats
+Samtools	idxstats	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/32.markdup.sorted.bam.idxstats
+Samtools	idxstats	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/29.markdup.sorted.bam.idxstats
+Samtools	idxstats	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/31.markdup.sorted.bam.idxstats
+Samtools	idxstats	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/20.markdup.sorted.bam.idxstats
+Samtools	idxstats	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/17.markdup.sorted.bam.idxstats
+Samtools	idxstats	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/33.markdup.sorted.bam.idxstats
+Samtools	idxstats	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/30.markdup.sorted.bam.idxstats
+Samtools	idxstats	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/samtools/idxstats/28.markdup.sorted.bam.idxstats
+STAR	SummaryLog	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/27.Log.final.out
+STAR	SummaryLog	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/31.Log.final.out
+STAR	SummaryLog	5	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/5.Log.final.out
+STAR	SummaryLog	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/28.Log.final.out
+STAR	SummaryLog	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/29.Log.final.out
+STAR	SummaryLog	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/32.Log.final.out
+STAR	SummaryLog	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/26.Log.final.out
+STAR	SummaryLog	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/30.Log.final.out
+STAR	SummaryLog	20	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/20.Log.final.out
+STAR	SummaryLog	17	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/17.Log.final.out
+STAR	SummaryLog	2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/2.Log.final.out
+STAR	SummaryLog	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/star/33.Log.final.out
+FastQC (raw)	all_sections	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/29_fastqc.zip
+FastQC (raw)	all_sections	20_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/20_2_fastqc.zip
+FastQC (raw)	all_sections	5_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/5_2_fastqc.zip
+FastQC (raw)	all_sections	2_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/2_2_fastqc.zip
+FastQC (raw)	all_sections	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/30_fastqc.zip
+FastQC (raw)	all_sections	5_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/5_1_fastqc.zip
+FastQC (raw)	all_sections	17_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/17_2_fastqc.zip
+FastQC (raw)	all_sections	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/33_fastqc.zip
+FastQC (raw)	all_sections	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/27_fastqc.zip
+FastQC (raw)	all_sections	17_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/17_1_fastqc.zip
+FastQC (raw)	all_sections	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/32_fastqc.zip
+FastQC (raw)	all_sections	20_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/20_1_fastqc.zip
+FastQC (raw)	all_sections	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/26_fastqc.zip
+FastQC (raw)	all_sections	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/28_fastqc.zip
+FastQC (raw)	all_sections	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/31_fastqc.zip
+FastQC (raw)	all_sections	2_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/raw/2_1_fastqc.zip
+Cutadapt	all_sections	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/32.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	5_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/5_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/28.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	2_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	20_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/20_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	2_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	17_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/17_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	17_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/17_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	5_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/5_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/31.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/29.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	20_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/20_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/30.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/27.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/33.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/trim_log/26.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	2_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	33	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/33_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	17_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/17_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	31	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/31_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	5_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/5_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	5_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/5_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	30	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/30_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	2_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	28	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/28_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	20_2	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/20_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	17_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/17_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	20_1	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/20_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	27	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/27_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	26	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/26_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	29	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/29_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	32	/storage/Nuevo_Analisis_Bosque/Fastq/work/52/fec137d4209932c0b7ec07bb6d1360/fastqc/trim/32_trimmed_fastqc.zip

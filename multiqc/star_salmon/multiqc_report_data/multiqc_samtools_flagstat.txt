@@ -1,0 +1,13 @@
+Sample	total_passed	total_failed	secondary_passed	secondary_failed	supplementary_passed	supplementary_failed	duplicates_passed	duplicates_failed	mapped_passed	mapped_failed	mapped_passed_pct	mapped_failed_pct	paired in sequencing_passed	paired in sequencing_failed	read1_passed	read1_failed	read2_passed	read2_failed	properly paired_passed	properly paired_failed	properly paired_passed_pct	properly paired_failed_pct	with itself and mate mapped_passed	with itself and mate mapped_failed	singletons_passed	singletons_failed	singletons_passed_pct	singletons_failed_pct	with mate mapped to a different chr_passed	with mate mapped to a different chr_failed	with mate mapped to a different chr (mapQ >= 5)_passed	with mate mapped to a different chr (mapQ >= 5)_failed	flagstat_total
+17	227569528	0	109517873	0	0	0	67120102	0	227569528	0	100.0	nan	118051655	0	59037394	0	59014261	0	118027578	0	99.98	nan	118027578	0	24077	0	0.02	nan	0	0	0	0	227569528
+2	255767224	0	113733680	0	0	0	82738553	0	255767224	0	100.0	nan	142033544	0	71038671	0	70994873	0	141988538	0	99.97	nan	141988538	0	45006	0	0.03	nan	0	0	0	0	255767224
+20	212128762	0	64668949	0	0	0	77072046	0	212128762	0	100.0	nan	147459813	0	73767019	0	73692794	0	147384196	0	99.95	nan	147384196	0	75617	0	0.05	nan	0	0	0	0	212128762
+26	316374529	0	147324595	0	0	0	130770831	0	316374529	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	316374529
+27	864599051	0	664037362	0	0	0	165741953	0	864599051	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	864599051
+28	260201248	0	73888089	0	0	0	134836607	0	260201248	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	260201248
+29	263002905	0	92003845	0	0	0	132056744	0	263002905	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	263002905
+30	368463113	0	146763239	0	0	0	183225452	0	368463113	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	368463113
+31	502743475	0	259475831	0	0	0	221387013	0	502743475	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	502743475
+32	998495312	0	806705700	0	0	0	167676789	0	998495312	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	998495312
+33	500605012	0	286286138	0	0	0	195416552	0	500605012	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	500605012
+5	210164284	0	97575864	0	0	0	64702130	0	210164284	0	100.0	nan	112588420	0	56311307	0	56277113	0	112552830	0	99.97	nan	112552830	0	35590	0	0.03	nan	0	0	0	0	210164284
